@@ -3,7 +3,7 @@
 **Learn AI by building it — together.**
 A free, week-by-week path from Python and data to machine learning, deep learning, LLMs and AI agents, with one real project and one mission every week.
 
-▶️ Videos: [youtube.com/@soroush.jaberi](https://www.youtube.com/@soroush.jaberi) · New episode every **[DAY]**
+▶️ Videos: [youtube.com/@soroush.jaberi](https://www.youtube.com/@soroush.jaberi) · 𝕏: [@soroushjaberi](https://x.com/soroushjaberi) · New episode every **[DAY]**
 
 > We learn it. We build it. We break it. And we keep moving forward.
 
